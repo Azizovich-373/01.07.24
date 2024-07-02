@@ -1,4 +1,4 @@
-import { Product } from "./components/product.js";
+import { Product } from "./components/Product.js";
 import { reload } from "./lib/utils.js";
 
 const main_box = document.querySelector('.main_box')
